@@ -1,0 +1,16 @@
+Copyright (c) 2026 [Your Username / TRAPPISSY]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this data/file dump, strictly for personal, non-commercial, educational 
+research and technical evaluation purposes only.
+
+THE SOFTWARE AND ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO 
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES 
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+Note: The underlying intellectual property, meshes, and textures remain the 
+property of their respective game studios and publishers.
